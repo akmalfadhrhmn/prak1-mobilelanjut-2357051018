@@ -59,6 +59,15 @@ flutter:
 
   assets:
      - assets/logo-mola.png
+     - assets/images/
+     - assets/food.png
+     - assets/history.png
+     - assets/payment.png
+     - assets/promo.png
+     - assets/salary.png
+     - assets/shopping.png
+     - assets/top_up.png
+     - assets/transfer.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
